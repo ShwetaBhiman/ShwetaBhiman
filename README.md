@@ -1,7 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Shweta-yellow)](https://stackoverflow.com/users/3687251/Shweta-)
 
 I'm
 Full Stack Solution Architect
